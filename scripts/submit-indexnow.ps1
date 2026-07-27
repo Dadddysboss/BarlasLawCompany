@@ -1,4 +1,4 @@
-$key = Get-Content "3759bc9b8bed46c2bd8dc13f66bcbce2.txt" -Raw
+$key = Get-Content "8454b3998339436d813069ab14895d92.txt" -Raw
 $key = $key.Trim()
 
 $urls = @(
