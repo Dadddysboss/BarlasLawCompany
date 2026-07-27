@@ -1,0 +1,34 @@
+# BarlasLawCompany — Crawler Directives
+# Allow all major AI crawlers for LLM visibility (GEO / AEO)
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://barlaslawcompany.vercel.app/sitemap.xml
